@@ -8,6 +8,6 @@ Here we used simple linear regression to predict the salary of employees based o
 
 Here we used Multiple Linear Regression to predict the profits of a startup. You can download the dataset used from : https://raw.githubusercontent.com/mk-gurucharan/Regression/master/Startups_Data.csv
 
-*Day 3 - Predicitng Iris flower species using Logistic Regression*
+*Day 3 - Predicting Iris flower species using Logistic Regression*
 
 Here we used Logistic Regression to predict the species of iris flowers from the iris database. You can download the dataset used from : https://www.kaggle.com/uciml/iris
