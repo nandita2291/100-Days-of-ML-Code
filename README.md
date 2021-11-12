@@ -11,3 +11,7 @@ Here we used Multiple Linear Regression to predict the profits of a startup. You
 *Day 3 - Predicting Iris flower species using Logistic Regression*
 
 Here we used Logistic Regression to predict the species of iris flowers from the iris database. You can download the dataset used from : https://www.kaggle.com/uciml/iris
+
+*Day 4 - Predicting House Prices using Linear Regression*
+
+Here we used Linear Regression to predict the house prices. You can download the dataset used from : https://www.kaggle.com/aariyan101/usa-housingcsv
