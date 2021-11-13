@@ -15,3 +15,7 @@ Here we used Logistic Regression to predict the species of iris flowers from the
 *Day 4 - Predicting House Prices using Linear Regression*
 
 Here we used Linear Regression to predict the house prices. You can download the dataset used from : https://www.kaggle.com/aariyan101/usa-housingcsv
+
+*Day 5 - Predicting Salary based on position using polynomial regression*
+
+Here we used Polynomial Regression to predict the salaries based on position. You can download the dataset used from : https://www.kaggle.com/akram24/position-salaries
