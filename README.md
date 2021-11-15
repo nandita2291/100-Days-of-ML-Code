@@ -23,3 +23,8 @@ Here we used Polynomial Regression to predict the salaries based on position. Yo
 *Day 6 - Predicting if the person bought a car from social media ads using Logistic Regression*
 
 Here  We are trying to find out which of these users are going to buy an SUV from ads posted on a social media network. We will estimate this using the age and salary of the user using Logistic Regression. You can download the dataset used from : https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/datasets/Social_Network_Ads.csv
+
+*Day 7 - Exploring Data Preprocessing Techniques Deeply*
+
+Yes, it seems weird that I am going back to data preprocessing at this point, but I wanted to make sure that I knew all the data preprocessing techniques well before going forward. You can view my article here : 
+
