@@ -26,5 +26,5 @@ Here  We are trying to find out which of these users are going to buy an SUV fro
 
 *Day 7 - Exploring Data Preprocessing Techniques Deeply*
 
-Yes, it seems weird that I am going back to data preprocessing at this point, but I wanted to make sure that I knew all the data preprocessing techniques well before going forward. You can view my article here : 
+Yes, it seems weird that I am going back to data preprocessing at this point, but I wanted to make sure that I knew all the data preprocessing techniques well before going forward. You can view my article here : https://nanditalearnsds.wordpress.com/2021/11/16/everything-you-need-to-know-about-data-preprocessing-in-machine-learning/
 
